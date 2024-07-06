@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "250007384350",
+    "firebase_url": "https://schools-149cc.firebaseio.com",
+    "project_id": "schools-149cc",
+    "storage_bucket": "schools-149cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250007384350:android:9e538829d07d483872590f",
+        "android_client_info": {
+          "package_name": "com.datatech.school_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJlPJck4uHjhHQZWLpgF10Or5o7xghKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250007384350-7210l1c9krsdvfmj740ltvp6iu92suqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datatech.schoolDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250007384350:android:c838dba9509d7c6972590f",
+        "android_client_info": {
+          "package_name": "com.datatech.school_parent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJlPJck4uHjhHQZWLpgF10Or5o7xghKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250007384350-7210l1c9krsdvfmj740ltvp6iu92suqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datatech.schoolDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250007384350:android:be0c02030b97c7b672590f",
+        "android_client_info": {
+          "package_name": "com.datatech.school_parent.parent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJlPJck4uHjhHQZWLpgF10Or5o7xghKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250007384350-7210l1c9krsdvfmj740ltvp6iu92suqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datatech.schoolDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250007384350:android:ffac45e1c4eb850a72590f",
+        "android_client_info": {
+          "package_name": "com.example.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250007384350-2hv02mohdvncgndbmrk0n8ggfcri8bjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.school",
+            "certificate_hash": "c0d531ee3f1448b4860390aa5e170050ad467da6"
+          }
+        },
+        {
+          "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJlPJck4uHjhHQZWLpgF10Or5o7xghKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250007384350-7210l1c9krsdvfmj740ltvp6iu92suqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datatech.schoolDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250007384350:android:bed1f8024229003672590f",
+        "android_client_info": {
+          "package_name": "com.example.school_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJlPJck4uHjhHQZWLpgF10Or5o7xghKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250007384350-h09dfeljofkcbkijrpvn7s7sifinemk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250007384350-7210l1c9krsdvfmj740ltvp6iu92suqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datatech.schoolDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

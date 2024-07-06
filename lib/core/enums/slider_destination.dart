@@ -1,0 +1,4 @@
+enum SliderDestination {
+  start,
+  end,
+}
